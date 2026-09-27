@@ -25,18 +25,6 @@ I'm currently gaining applied experience as a **Machine Learning Intern**, and I
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [NogorBondhu](https://github.com/adibakhandaker/NogorBondhu) | Inter-city ride booking web app for Bangladesh — affordable bike & car rides between cities. [Live Demo](https://dazzling-belekoy-36406d.netlify.app) | HTML |
-| [UnoPlus](https://github.com/adibakhandaker/UnoPlus) | Multiplayer UNO game with 3 difficulty modes (Easy, Medium, No Mercy), built for the Advanced OOP course. | Java, JavaFX |
-| [rock-paper-scissors](https://github.com/adibakhandaker/rock-paper-scissors) | Interactive Rock Paper Scissors game with animated UI. [Live Demo](https://adibakhandaker.github.io/rock-paper-scissors/) | HTML, CSS, JavaScript |
-| [OOP-Lab](https://github.com/adibakhandaker/OOP-Lab) | Java lab exercises and coursework. | Java |
-| [DBMS-Lab](https://github.com/adibakhandaker/DBMS-Lab) | SQL coursework and database exercises, from the basics up. | SQL |
-
----
-
 ## 🛠️ Languages & Tools
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
