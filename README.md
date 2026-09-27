@@ -72,11 +72,6 @@ Currently open to internship opportunities in:
 
 ---
 
-## 📊 GitHub Stats
-
-![Adiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=adibakhandaker&show_icons=true&theme=default)
-
----
 
 ## 📫 Connect
 
