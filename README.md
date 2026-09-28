@@ -2,7 +2,7 @@
 
 🎓 **4th-Year B.Sc. in Computer Science & Engineering**
 🏫 **United International University, Bangladesh**
-📊 **CGPA:** 3.16 / 4.00 | **Major:** Data Science
+📊 **Major:** Data Science
 🔐 Interested in Cybersecurity, Networking & Software/Web Development
 
 ---
